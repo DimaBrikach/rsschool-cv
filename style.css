@@ -1,0 +1,10 @@
+main{
+    max-height: fit-content;
+    max-width: 1024px;
+}
+.profile_photo {
+    margin: 0px;
+    padding: 0px;
+    height: 300px;
+    width: 300px;
+}
