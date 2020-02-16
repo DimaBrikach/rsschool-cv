@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dimabrikach.github.io/rsschool-cv/cv
