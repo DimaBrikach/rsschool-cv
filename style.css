@@ -5,6 +5,7 @@ main{
 .profile_photo {
     margin: 0px;
     padding: 0px;
-    height: 300px;
-    width: 300px;
+}
+.personal_info {
+    display: inline-block;
 }
