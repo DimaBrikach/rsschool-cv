@@ -12,13 +12,13 @@
 
 **Goals**  
 
-    * Become a Developer  
+    *Become a Developer  
 
-    * Learn basics of coding 
+    *Learn basics of coding 
 
-    * Learn Git usage
+    *Learn Git usage
 
-    * Learn Tools, e.g Docker, programming patterns and get basic understanding of server infrastructure   
+    *Learn Tools, e.g Docker, programming patterns and get basic understanding of server infrastructure   
 
 **Code Samples / Link To Repository** None
 
