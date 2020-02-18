@@ -1,0 +1,35 @@
+main{
+    max-height: fit-content;
+    max-width: 1024px;
+    margin: auto;
+    padding: 15px;
+    background-color: #171716;
+    color: #fcfcfc;
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+}
+li {
+    list-style: none;
+    justify-content: right;
+}
+h3 {
+    font-weight: 900;
+    color: yellow;
+}
+ul {
+    line-height: 2.0;
+}
+.profile {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+ .phone, .email, .skype{
+    height: 20px;
+    width: 20px;
+}
+#summary {
+    line-height: 2.0;
+}
